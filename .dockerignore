@@ -1,0 +1,11 @@
+node_modules/
+.parcel-cache/
+.github/
+*.md
+package.json
+package-lock.json
+src/
+styles/
+.gitignore
+.htmlhintrc
+.stylelintrc.json
